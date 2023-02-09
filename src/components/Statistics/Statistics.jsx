@@ -22,7 +22,7 @@ export class Statistics extends Component {
         </li>
         <li className={css.item}>
           <p className={css.total}>{total}</p>
-          <p>Total</p>
+          <p className={css.total_txt}>Total</p>
         </li>
         <li className={css.item}>
           <p className={css.positive}>{positivePercentage}%</p>
