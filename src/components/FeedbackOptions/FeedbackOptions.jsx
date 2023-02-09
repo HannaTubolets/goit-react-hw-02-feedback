@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import { Button } from '../Button/Button';
-import css from './FeedbackOptions.module.css'
+// import css from './FeedbackOptions.module.css'
 
 export class FeedbackOptions extends Component {
   state = {
